@@ -1,0 +1,7 @@
+.wdm
+cache
+.ipynb_checkpoints
+__pycache__
+Python project
+ims_testing.ipynb
+methodology.xlsx
